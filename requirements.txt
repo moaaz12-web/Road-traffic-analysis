@@ -1,0 +1,10 @@
+pip install ultralytics opencv-python opencv-python-headless filterpy
+pip install ultralytics opencv-contrib-python filterpy
+
+
+
+numpy
+opencv-contrib-python
+ultralytics
+scikit-image
+filterpy
