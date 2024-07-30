@@ -1,7 +1,7 @@
 # Real time traffic analysis using YOLOv8, SORT, and OpenCV
 
 ## Features
-1. Segments the road in video into 5 lanes, draw long polygons around it.
+1. Segments the road in video into 5 lanes (lane A, B, C, D, and E), draws long polygons around it.
 2. Keep track of vehicles currently inside the lanes, and overlays it on screen using "Inside lane {lane_name"" placeholder.
 3. Keeps track of all vehices that have passed the lanes, and overlays it on screen using "Lane {lane_name) count" placeholder.
 4. Highlights a lane in red if there are more than 4 vehicles currently inside it, indicating a traffic jam.
