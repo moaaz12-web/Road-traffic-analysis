@@ -1,0 +1,8 @@
+numpy
+opencv-python
+opencv-contrib-python 
+ultralytics 
+scikit-image 
+filterpy
+deep-sort-realtime
+setuptools
